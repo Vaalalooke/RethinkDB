@@ -1,0 +1,14 @@
+{
+  config_changes: [ { new_val: [Object], old_val: null } ],
+  tables_created: 1
+}
+{
+  deleted: 0,
+  errors: 0,
+  generated_keys: [ '141e8fa9-3d46-42ac-a925-feacf26b256c' ],
+  inserted: 1,
+  replaced: 0,
+  skipped: 0,
+  unchanged: 0
+}
+^C
